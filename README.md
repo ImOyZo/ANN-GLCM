@@ -1,2 +1,2 @@
 # ANN-GLCM
-Source code for Introduction to Digital Data Processing.
+Code for Introduction to Digital Data Processing.
